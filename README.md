@@ -5,9 +5,4 @@ Model folder must be in the root and named: 1.png.
 Must create "Result" folder.
 As many folders as you wish ordered by body parts (head: all head images, arms: all arms images).
 
-NFTImages
---Result
---1.png
---Folder1
---Folder2
---Folder.....
+NFTImages: Result, 1.png, Folder1, Folder2, Folder.....
